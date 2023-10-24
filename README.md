@@ -1,6 +1,8 @@
 # chicken_aliases
 #List of awesome aliases for me
+
 PS1='\[\e[38;5;46;1m\]\u\[\e[0;38;5;196m\]@\[\e[38;5;184m\]\H\[\e[0m\] \[\e[38;5;196;1m\]\w\[\e[0m\] \[\e[38;5;51;1m\]\\$\[\e[0m\] '
+
 #
 # Clear
 alias c="clear"
